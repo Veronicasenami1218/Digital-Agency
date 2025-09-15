@@ -54,6 +54,8 @@ Simply open `index.html` in your browser to preview the site.
 ## 🌐 Live Demo
 
 https://veronicasenami1218.github.io/Digital-Agency/
+OR
+digital-agency-nbyfvmrzh-veronica-s-projects-f79fb412.vercel.app
 
 ---
 
